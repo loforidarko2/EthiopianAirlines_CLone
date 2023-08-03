@@ -6,7 +6,7 @@ To Clone the Project:
 To Run the Project:
 1. Open the Project folder using VScode.
 2. Run npm install in the project folder destination.
-3. Run nom start to start the project.
+3. Run npm start to start the project.
 4. Scan the QR code or use a simulator or emulator to go through the Project
 
 NB: This is not a complete clone
